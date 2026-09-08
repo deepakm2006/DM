@@ -239,7 +239,7 @@ function App() {
             <div className="mt-12 flex gap-4">
 
               <a
-                href="https://github.com/"
+                href="https://github.com/deepakm2006"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="GitHub"
@@ -249,7 +249,7 @@ function App() {
               </a>
 
               <a
-                href="https://linkedin.com/"
+                href="https://linkedin.com/in/deepak-m-581041306"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="LinkedIn"
