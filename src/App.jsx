@@ -2,7 +2,6 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 import {
   Mail,
-  Phone,
   ArrowDown,
   ArrowUpRight,
   Menu,
@@ -113,7 +112,7 @@ function App() {
             href="#home"
             className="text-xl font-bold tracking-tight"
           >
-            DEEPAK<span className="text-gray-500">.</span>
+            DEEPAK M<span className="text-gray-500">.</span>
           </a>
 
           {/* Desktop Navigation */}
@@ -195,7 +194,7 @@ function App() {
             </p>
 
             <h1 className="max-w-5xl text-6xl font-bold leading-none tracking-tight sm:text-7xl md:text-8xl lg:text-9xl">
-              Deepak<span className="text-gray-600">.</span>
+              Deepak M< span className="text-gray-600">.</span>
             </h1>
 
             <h2 className="mt-8 max-w-3xl text-2xl font-medium text-gray-300 md:text-4xl">
@@ -265,13 +264,7 @@ function App() {
               >
                 <Mail size={18} />
               </a>
-              <a
-                href="tel:+91XXXXXXXXXX"
-                className="mt-4 inline-flex items-center gap-3 rounded-full border border-white/20 px-8 py-4 font-medium text-white transition hover:bg-white hover:text-black"
-              >
-                <Phone size={18} />
-                  +91 9620317887
-              </a>
+            
 
             </div>
 
@@ -646,7 +639,7 @@ function App() {
         <div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-4 text-sm text-gray-600 md:flex-row">
 
           <p>
-            © {new Date().getFullYear()} Deepak. All rights reserved.
+            © {new Date().getFullYear()} Deepak M All rights reserved.
           </p>
 
 
