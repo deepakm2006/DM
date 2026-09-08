@@ -604,7 +604,7 @@ function App() {
 
 
           <a
-            href="mailto:your@email.com"
+            href="mailto:deepumdeepak4@gmail.com"
             className="mt-10 inline-flex items-center gap-3 rounded-full bg-white px-8 py-4 font-medium text-black transition hover:bg-gray-200"
           >
             <Mail size={18} />
@@ -615,7 +615,7 @@ function App() {
           <div className="mt-12 flex justify-center gap-6">
 
             <a
-              href="https://github.com/"
+              href="https://github.com/deepakm2006"
               target="_blank"
               rel="noreferrer"
               className="flex h-12 w-12 items-center justify-center rounded-full border border-white/10 text-sm font-bold text-gray-500 transition hover:border-white/30 hover:text-white"
@@ -625,7 +625,7 @@ function App() {
 
 
             <a
-              href="https://linkedin.com/in/deepakm2006"
+              href="https://linkedin.com/in/deepak-m-581041306"
               target="_blank"
               rel="noreferrer"
               className="flex h-12 w-12 items-center justify-center rounded-full border border-white/10 text-sm font-bold text-gray-500 transition hover:border-white/30 hover:text-white"
